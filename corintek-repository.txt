@@ -3,4 +3,4 @@ Corintek Resolusi
 - Membuat applikasi untuk manajemen corintek
 - Membuat pekerjaan administrasi lebih mudah
 - Kedepannya saya akan belajar git dengan teman saya
-- Bekerja dengan expert
+- Bekerja menggunakan sepeda
