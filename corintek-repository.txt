@@ -2,3 +2,5 @@ Corintek Resolusi
 - Konsisten untuk membuat git 1 kali sehari
 - Membuat applikasi untuk manajemen corintek
 - Membuat pekerjaan administrasi lebih mudah
+- Kedepannya saya akan belajar git dengan teman saya
+- Bekerja dengan expert
